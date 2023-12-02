@@ -26,8 +26,7 @@ The Next.js 14 App Router is a groundbreaking addition to the Next.js framework,
   
 ## Demo
 
-https://lets-chat-zfwx.onrender.com
-
+https://ai-genie-omega.vercel.app
 
 ## Made By
 
