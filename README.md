@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# AI - Genie
 
-First, run the development server:
+AI - Genie is a Full Stack AI SaaS Platform with five AI tools.Powered by the Next.js 14 App Router, our platform will not only be efficient but also user-centric.
+The Next.js 14 App Router is a groundbreaking addition to the Next.js framework, enabling developers to design intricate client-side routing effortlessly. Leveraging this powerful tool, Integrating a seamless Stripe subscription system, ensuring a smooth billing process for users.
+## Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+* React
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* TypeScript
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* Tailwind
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* Prisma
 
-## Learn More
+* MySQL
 
-To learn more about Next.js, take a look at the following resources:
+* Clerk
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Crisp
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Stripe
 
-## Deploy on Vercel
+* ShadCN
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  
+## Demo
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://ai-genie-omega.vercel.app
+
+## Made By
+
+- [Paras2322](https://github.com/Paras2322)
+
+  
