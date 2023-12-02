@@ -8,7 +8,6 @@ import { CrispProvider } from '@/components/crisp-provider'
 
 import './globals.css'
 
-export const dynamic = 'force-dynamic'
 
 const font = Inter({ subsets: ['latin'] });
 
@@ -16,6 +15,7 @@ export const metadata: Metadata = {
   title: 'AI Genie',
   description: 'AI Platform',
 }
+export const dynamic = 'force-dynamic';
 
 export default async function RootLayout({
   children,

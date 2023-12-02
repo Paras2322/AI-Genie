@@ -3,6 +3,8 @@ import { getApiLimitCount } from "@/lib/api-limit";
 import Navbar from "@/components/Navbar";
 import { Sidebar } from "@/components/Sidebar";
 
+export const dynamic = 'force-dynamic';
+
 const DashboardLayout = async ({
   children,
 }: {
