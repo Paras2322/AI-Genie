@@ -23,6 +23,9 @@ The Next.js 14 App Router is a groundbreaking addition to the Next.js framework,
 
 * ShadCN
 
+* PlanetScale
+
+
   
 ## Demo
 
